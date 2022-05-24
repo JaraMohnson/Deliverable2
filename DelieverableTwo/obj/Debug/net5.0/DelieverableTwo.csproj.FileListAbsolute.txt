@@ -1,0 +1,16 @@
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\bin\Debug\net5.0\DelieverableTwo.exe
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\bin\Debug\net5.0\DelieverableTwo.deps.json
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\bin\Debug\net5.0\DelieverableTwo.runtimeconfig.json
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\bin\Debug\net5.0\DelieverableTwo.runtimeconfig.dev.json
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\bin\Debug\net5.0\DelieverableTwo.dll
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\bin\Debug\net5.0\ref\DelieverableTwo.dll
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\bin\Debug\net5.0\DelieverableTwo.pdb
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\obj\Debug\net5.0\DelieverableTwo.csproj.AssemblyReference.cache
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\obj\Debug\net5.0\DelieverableTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\obj\Debug\net5.0\DelieverableTwo.AssemblyInfoInputs.cache
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\obj\Debug\net5.0\DelieverableTwo.AssemblyInfo.cs
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\obj\Debug\net5.0\DelieverableTwo.csproj.CoreCompileInputs.cache
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\obj\Debug\net5.0\DelieverableTwo.dll
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\obj\Debug\net5.0\ref\DelieverableTwo.dll
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\obj\Debug\net5.0\DelieverableTwo.pdb
+C:\Users\jaram\source\repos\DelieverableTwo\DelieverableTwo\obj\Debug\net5.0\DelieverableTwo.genruntimeconfig.cache
